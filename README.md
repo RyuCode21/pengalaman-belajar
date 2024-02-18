@@ -9,3 +9,4 @@ Hari ini Saya Belajar Dasar Pemrograman
 Hari ini saya belajar Git di Website Dicoding dalam program Bangkit
 * Penggunaan Git
 * Perintah Git
+* Melakukan Merge Branch
